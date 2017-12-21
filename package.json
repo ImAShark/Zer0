@@ -2,7 +2,7 @@
   "name": "Zer0",
   "version": "1.0.0",
   "description": "My own Discord bot",
-  "main": "Zer0.js",
+  "main": "bot.js",
   "author": "killersshadow",
   "scripts":{
     "start": "node bot.js"
