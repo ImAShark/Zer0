@@ -4,6 +4,10 @@
   "description": "My own Discord bot",
   "main": "Zer0.js",
   "author": "killersshadow",
+  "scripts":{
+    "start": "node bot.js"
+  },
+
   "dependencies": {
     "discord.io": "^2.5.3",
     "winston": "^2.4.0"
